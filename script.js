@@ -137,6 +137,6 @@ whatsappLinks.forEach(link => {
             "Hello Ameer Hamza, I would like to know more about your web development services."
         );
 
-        link.href = `https://wa.me/92371801756?text=${message}`;
+        link.href = `https://wa.me/923718101756?text=${message}`;
     });
 });
